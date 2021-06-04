@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    text-align: center;;
 }
 #head {
     font-family: Verdana;
@@ -13,4 +14,28 @@ body {
     color: aquamarine;
     font-size: 16px;
     text-align: center;
+}
+
+#video {
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+}
+.main-head {
+    font-family:Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+#main-p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+#camp-pic {
+    margin: 25px
+}
+#right {
+    text-align: right;
+    color:gray;
 }
